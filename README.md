@@ -1,4 +1,4 @@
-# Bank Marketing Project
+# Bank Marketing Project.
 ## Bank Marketing Insights
 
 By leveraging insights from the bank marketing data, banks can:
