@@ -142,6 +142,8 @@ This storytelling approach integrates our data findings with strategic actions, 
 The bank marketing project represents a holistic approach to leveraging data analytics for optimizing marketing initiatives and driving business growth. By harnessing the power of advanced analytical techniques and insightful visualizations, the project aims to empower stakeholders with actionable insights to make informed decisions and achieve strategic objectives.
 ## IMPORTANT DATA DRIVEN INSIGHT
 """
+![image](https://github.com/user-attachments/assets/0c406600-96c7-48fc-8a75-0ba2178f5230)
+
 README.py
 
 Overview:
